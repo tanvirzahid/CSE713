@@ -8,7 +8,7 @@ Paper title:
 Wireless Body Area Network (WBAN): A Survey on Reliability, Fault Tolerance, and Technologies Coexistence
 
 Link to the paper:
-https://ieeexplore......https://www.researchgate.net/publication/292152547_Wireless_Body_Area_Network_WBAN_A_Survey_on_Reliability_Fault_Tolerance_and_Technologies_Coexistence
+https://www.researchgate.net/publication/292152547_Wireless_Body_Area_Network_WBAN_A_Survey_on_Reliability_Fault_Tolerance_and_Technologies_Coexistence
 
 Group Number:
 12
